@@ -25,9 +25,7 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 
 - Decide which stage the module runs in
 - Decide whether it's a tool-centric module, a language-centric module, or a new entrypoint on an existing module. This matters for how you organize the code in your repo.
-- Follow the I/O schema for that stage 
-- Handle your dependencies with [pixi](https://pixi.prefix.dev/latest/)
-- Export a conda environment in `envs/`
+- Follow the I/O schema for that stage
 
 ### Add Dataset
 
