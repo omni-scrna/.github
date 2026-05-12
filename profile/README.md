@@ -23,8 +23,6 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 
 ### Add/Change Method
 
-See the [COOKBOOK](https://github.com/omni-scrna/cookbook)
-
 - Decide which stage the module runs in
 - Decide whether it's a tool-centric module, a language-centric module, or a new entrypoint on an existing module. This matters for how you organize the code in your repo.
 - Follow the I/O schema for that stage 
