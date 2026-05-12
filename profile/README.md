@@ -30,7 +30,6 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 ### Add Dataset
 
 - Add to `1-data`
-- Use [omni-data](https://github.com/btraven00/omni-data) if possible
 - Include provenance + license in CITATION.cff for the data module
 
 ### Test changes in the benchmark
