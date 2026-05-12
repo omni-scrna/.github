@@ -13,6 +13,8 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 | Normalize | https://github.com/omni-scrna/3-normalize    | `methods`, `preprocessing`              |
 | Select    | https://github.com/omni-scrna/4-select       | `methods`, `preprocessing`              |
 | Multiple  | https://github.com/omni-scrna/scanpy         | `methods`, `pca`, `graph`, `clustering`, `python` |
+| Multiple  | https://github.com/omni-scrna/scrapper       | `methods`, `pca`, `r`                   |
+| Multiple  | https://github.com/omni-scrna/rapids-singlecell | `methods`, `pca`, `graph`, `clustering`, `python`, `gpu`    |
 | Metrics   | https://github.com/omni-scrna/metrics        | `metrics`                               |
 
 
