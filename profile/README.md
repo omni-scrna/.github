@@ -18,15 +18,9 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 
 ## Contributing
 
-See the [COOKBOOK](https://github.com/omni-scrna/cookbook)! tl;dr:
+### Add/Change Method
 
-1. Fork repo  
-2. Create branch (`feat/<name>`)  
-3. Follow module contracts
-4. Add tests/examples  
-5. Open PR with clear description  
-
-### Add Method
+See the [COOKBOOK](https://github.com/omni-scrna/cookbook)
 
 - Decide which stage the module runs in
 - Decide whether it's a tool-centric module, a language-centric module, or a new entrypoint on an existing module. This matters for how you organize the code in your repo.
@@ -39,3 +33,11 @@ See the [COOKBOOK](https://github.com/omni-scrna/cookbook)! tl;dr:
 - Add to `1-data`
 - Use [omni-data](https://github.com/btraven00/omni-data) if possible
 - Include provenance + license in CITATION.cff for the data module
+
+### Test changes in the benchmark
+
+1. Pick an [open task](https://github.com/orgs/omni-scrna/projects/1)
+2. Fork the plan repo
+3. Create branch (`feat/<name>`). Ideally, same branch name across all the linked PRs.
+4. Follow module contracts for I/O
+5. Open [a PR to the plan](https://github.com/omni-scrna/split-stages-plan/pulls) with clear description  
