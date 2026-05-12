@@ -6,13 +6,14 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 
 ## Modules
 
-| Stage     | Repository                                   | Tags                       |
-|-----------|----------------------------------------------|----------------------------|
-| Data      | https://github.com/omni-scrna/1-data         | `data`                     |
-| Filter    | https://github.com/omni-scrna/2-filter       | `methods`, `preprocessing` |
-| Normalize | https://github.com/omni-scrna/3-normalize    | `methods`, `preprocessing` |
-| Select    | https://github.com/omni-scrna/4-select       | `methods`, `preprocessing` |
-| Metrics   | https://github.com/omni-scrna/metrics        | `metrics`                  |
+| Stage     | Repository                                   | Tags                                    |
+|-----------|----------------------------------------------|-----------------------------------------|
+| Data      | https://github.com/omni-scrna/1-data         | `data`                                  |
+| Filter    | https://github.com/omni-scrna/2-filter       | `methods`, `preprocessing`              |
+| Normalize | https://github.com/omni-scrna/3-normalize    | `methods`, `preprocessing`              |
+| Select    | https://github.com/omni-scrna/4-select       | `methods`, `preprocessing`              |
+| Multiple  | https://github.com/omni-scrna/scanpy         | `methods`, `pca`, `graph`, `clustering`, `python` |
+| Metrics   | https://github.com/omni-scrna/metrics        | `metrics`                               |
 
 
 ## Contributing
