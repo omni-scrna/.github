@@ -18,6 +18,8 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 
 ## Contributing
 
+See the [COOKBOOK](https://github.com/omni-scrna/cookbook)! tl;dr:
+
 1. Fork repo  
 2. Create branch (`feat/<name>`)  
 3. Follow module contracts
