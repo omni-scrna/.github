@@ -15,6 +15,7 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 | Select    | https://github.com/omni-scrna/4-select-py    | `methods`, `preprocessing`, `python`    |
 | Multiple  | https://github.com/omni-scrna/scanpy         | `methods`, `pca`, `graph`, `clustering`, `python` |
 | Multiple  | https://github.com/omni-scrna/scrapper       | `methods`, `pca`, `r`                   |
+| Multiple  | https://github.com/omni-scrna/seurat         | `methods`, `pca`, `clustering`, `integration`, `r`             |
 | Multiple  | https://github.com/omni-scrna/rapids-singlecell | `methods`, `pca`, `graph`, `clustering`, `python`, `gpu`    |
 | Annotations | https://github.com/omni-scrna/9-annotate   | `annotations`                           |
 | Metrics   | https://github.com/omni-scrna/metrics        | `metrics`                               |
