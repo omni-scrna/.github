@@ -3,6 +3,7 @@
 an universal single-cell benchmark, implemented as a collection of reusable [omnibenchmark](https://omnibenchmark.org) modules
 
 **Plan:** https://github.com/omni-scrna/split-stages-plan
+**Monitor:** https://omni-scrna.github.io/monitor/ 
 
 ## Modules
 
@@ -19,6 +20,7 @@ an universal single-cell benchmark, implemented as a collection of reusable [omn
 | Multiple  | https://github.com/omni-scrna/rapids-singlecell | `methods`, `pca`, `graph`, `clustering`, `python`, `gpu`    |
 | Annotations | https://github.com/omni-scrna/9-annotate   | `annotations`                           |
 | Metrics   | https://github.com/omni-scrna/metrics        | `metrics`                               |
+| Analysis  | https://github.com/omni-scrna/omni-scrna-analysis | `reports`                          |
 
 
 ## Contributing
